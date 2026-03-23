@@ -1,18 +1,18 @@
 {
   "name": "devpace",
-  "description": "Never re-explain your project to Claude again. devpace remembers context across sessions, manages requirement changes, and ensures quality gates \u2014 all automatically.",
+  "description": "Never re-explain your project to Claude again. devpace remembers context across sessions, manages requirement changes, and ensures quality gates — all automatically.",
   "owner": {
     "name": "paceforge"
   },
   "plugins": [
     {
       "name": "devpace",
-      "description": "Never re-explain your project to Claude again. devpace remembers context across sessions, manages requirement changes, and ensures quality gates \u2014 all automatically. Zero setup friction, just /pace-init and start coding.",
-      "version": "1.6.3",
+      "description": "Never re-explain your project to Claude again. devpace remembers context across sessions, manages requirement changes, and ensures quality gates — all automatically. Zero setup friction, just /pace-init and start coding.",
+      "version": "1.6.4",
       "source": {
         "source": "github",
         "repo": "arch-team/devpace",
-        "ref": "v1.6.3"
+        "ref": "v1.6.4"
       },
       "author": {
         "name": "paceforge"
